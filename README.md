@@ -2,7 +2,7 @@
 
 ### Steps
 
-# Clone the Repository
+### Clone the Repository
 
 ``` bash
 Project Repo: https://github.com/shabbu8111999/Book-Recommender-System
