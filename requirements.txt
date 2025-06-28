@@ -1,4 +1,6 @@
 scikit-learn
 pandas
 numpy
+PyYAML
+streamlit
 -e .
