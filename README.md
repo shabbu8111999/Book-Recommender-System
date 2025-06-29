@@ -45,3 +45,13 @@ pip install -r requiremets.txt
 - main.py
 #### 7th Update
 - app.py
+
+
+### NOTE : This should be Run after the completion of "app.py" and as above mention folders and files in WorkFlow
+
+
+## HOW TO RUN STREAMLIT APP ?
+
+```bash
+streamlit run app.py
+```
